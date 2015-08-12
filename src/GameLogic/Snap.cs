@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using SwinGameSDK;
 
 #if DEBUG
@@ -81,7 +81,7 @@ namespace CardGames.GameLogic
 		{
 			get { return _started; }
 		}
-
+		
 		/// <summary>
 		/// Start the Snap game playing!
 		/// </summary>
@@ -189,4 +189,5 @@ namespace CardGames.GameLogic
 		#endregion
 	}
 }
+
 
